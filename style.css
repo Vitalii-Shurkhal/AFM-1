@@ -19,3 +19,9 @@ ul li {
     height: 300px;
     border: 2px dashed violet;
 }
+
+.kwadrat {
+    display: inline-block;
+    margin-right: 30px;
+
+}
