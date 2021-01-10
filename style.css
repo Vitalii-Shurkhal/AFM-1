@@ -5,7 +5,8 @@ body {
 p {
     font-size: 2rem;
     font-weight: bold;
-    color: red;
+    color: green;
+    border: 2px solid darkgrey
 }
 
 ul li {
